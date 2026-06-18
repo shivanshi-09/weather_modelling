@@ -1,0 +1,7 @@
+__pycache__/
+*.zarr/
+*.nc
+*.npz
+logs/
+runs/
+*.yml
